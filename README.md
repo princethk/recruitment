@@ -73,7 +73,7 @@ cd recruitment-app
    ```
 
 3. Set up the MySQL database:
-   - Create a database named `recruitment_db`.
+   - Create a database named `recruitment`.
    - Run the following SQL queries to create the required tables:
      ```sql
      CREATE TABLE stages (
