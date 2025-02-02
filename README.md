@@ -1,7 +1,3 @@
-Here’s a comprehensive **README.md** file for your project. It includes an overview, setup instructions, features, and other relevant details. You can customize it further based on your specific needs.
-
----
-
 # Recruitment App
 
 A full-stack web application for managing recruitment stages and statuses. Built with **React** for the frontend, **Node.js + Express** for the backend, and **MySQL** for the database.
